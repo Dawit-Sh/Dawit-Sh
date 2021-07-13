@@ -1,9 +1,8 @@
 #### Hi there! 👑🍻🐧
 
-<!--
 ### Dawit-Sh Programming Stat
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Sh&theme=merko&layout=compact)-->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Sh&theme=merko&layout=compact)
 
 ### Operating System:
 
