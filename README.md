@@ -16,10 +16,6 @@ while(dev.isCoding())
 }
 ```
 
-<p align="center">
-  <a href="https://dev.to/badge/hacktoberfest-2020"><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="100px"></a>
-  <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://user-images.githubusercontent.com/30869493/141280079-58814cbd-0ec9-4d84-a80e-b572a3c895b9.png" height="100px"></a>
-</p>
 
 
 [![Dawit-Sh github stats](https://github-readme-stats.vercel.app/api?username=Dawit-Sh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Dawit-Sh/github-readme-stats)
