@@ -5,7 +5,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old, Linux Enthusiast, Open Soure fanatic from Ethiopia.
+### - I'm 19 year old, Linux Enthusiast, Open Soure fanatic from Ethiopia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/1936.gif">
 
