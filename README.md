@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/samurai.gif" alt="Banner"></a>
-</p>
+<div align="center">
+<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/1936.gif">
+</div>
 <h1 align="center">I'm <a href="https://dawit-sh.github.io/">Dawit</a>!</h1>
 
 # About ME 💬 :
 
+
 ### - I'm 19 year old, Linux Enthusiast, Open Soure fanatic from Ethiopia.
 
-<!--<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/1936.gif">-->
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVsZDFmZnplYnRwdHNjZGw5eGVwZ3gxdmszZWxjY3E5bmdla3htaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vCQFl7NRAsrn3GREP2/giphy.gif">
+<img align="right" width=500px height=400px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVsZDFmZnplYnRwdHNjZGw5eGVwZ3gxdmszZWxjY3E5bmdla3htaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vCQFl7NRAsrn3GREP2/giphy.gif">
 
 ### - Learning :
 - ✨ Bash 
