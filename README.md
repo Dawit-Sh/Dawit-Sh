@@ -15,6 +15,7 @@
 ### - Hobbies : 
 - ✨ Watching Anime
 - ✨ Reading
+- ✨ Writing
 
 # Languages & Tools 🛠:
 </br>
