@@ -7,7 +7,8 @@
 
 ### - I'm 19 year old, Linux Enthusiast, Open Soure fanatic from Ethiopia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/1936.gif">
+<!--<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/1936.gif">-->
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVsZDFmZnplYnRwdHNjZGw5eGVwZ3gxdmszZWxjY3E5bmdla3htaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vCQFl7NRAsrn3GREP2/giphy.gif">
 
 ### - Learning :
 - ✨ Bash 
