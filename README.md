@@ -27,7 +27,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vim,github,linux,html,css,js,md,bash" />
   </a>
-</p>
+  </p>
 
 
 
