@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/Dawit-Sh/Dawit-Sh/blob/main/1936.gif">
-</div>
+</div>-->
 <h1 align="center">I'm <a href="https://dawit-sh.github.io/">Dawit</a>!</h1>
 
 # About ME 💬 :
