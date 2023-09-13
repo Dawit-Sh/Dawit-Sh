@@ -13,6 +13,7 @@
 ### - Learning :
 - ✨ Tailwind
 - ✨ Node Js
+- ✨ Express Js
 
 ### - Hobbies : 
 - ✨ Watching Anime
