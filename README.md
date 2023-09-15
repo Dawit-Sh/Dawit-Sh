@@ -10,10 +10,6 @@
 
 <img align="right" width=500px height=400px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVsZDFmZnplYnRwdHNjZGw5eGVwZ3gxdmszZWxjY3E5bmdla3htaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vCQFl7NRAsrn3GREP2/giphy.gif">
 
-### - Learning :
-- ✨ Tailwind
-- ✨ Node Js
-- ✨ Express Js
 
 ### - Hobbies : 
 - ✨ Watching Anime
