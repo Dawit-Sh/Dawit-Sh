@@ -3,8 +3,7 @@
 </div>-->
 <h1 align="center">I'm <a href="https://dawit-sh.github.io/">Dawit</a>!</h1>
 
-# About ME 💬 :
-
+# About ME 💬 : [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev) 
 
 ### - Linux Enthusiast, Open Soure fanatic from Ethiopia.
 
