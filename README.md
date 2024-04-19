@@ -11,7 +11,7 @@
   <!--<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Dawit-Sh&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>-->
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,github,linux,python,bash,c,cpp,lua,haskell" />
+    <img src="https://skillicons.dev/icons?i=git,neovim,github,linux,python,bash,lua,js,octave,qt," />
   </a>
   </p>
 
